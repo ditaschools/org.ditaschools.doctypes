@@ -1,0 +1,15 @@
+<!-- 
+  ditaschools.org Doctypes
+  
+  Copyright (c) 2015 DITA Schools
+  
+
+  Doctypes for DITA-based training materials as used by DITA Schools
+-->
+<plugin id="org.ditaschools.doctypes">
+  
+  <feature extension="package.support.name" value="Eliot Kimber"/>
+  <feature extension="package.support.email" value="ekimber@contrext.com"/>  
+  
+  <feature extension="dita.specialization.catalog.relative" value="catalog.xml" type="file"/>
+</plugin>
