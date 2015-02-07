@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+  <public publicId="urn:pubid:ditaschools.org:doctypes:dita:ds_Exercise"
+    uri="ds_Exercise.dtd"
+  />
+  <system systemId="urn:pubid:ditaschools.org:doctypes:dita:ds_Exercise.dtd"
+    uri="ds_Exercise.dtd"
+  />
+  
+  <public publicId="urn:pubid:ditaschools.org:modules:ds_Exercise"
+    uri="ds_Exercise.mod"
+  />
+  <system systemId="urn:pubid:ditaschools.org:modules:ds_Exercise.mod"
+    uri="ds_Exercise.mod"
+  />
+  <public publicId="urn:pubid:ditaschools.org:entities:ds_Exercise"
+    uri="ds_Exercise.ent"
+  />
+  <system systemId="urn:pubid:ditaschools.org:entities:ds_Exercise.ent"
+    uri="ds_Exercise.ent"
+  />
+</catalog>  
