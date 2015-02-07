@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+  <public publicId="urn:pubid:ditaschools.org:doctypes:dita:ds_TrainingMap"
+    uri="ds_TrainingMap.dtd"
+  />
+  <system systemId="urn:pubid:ditaschools.org:doctypes:dita:ds_TrainingMap.dtd"
+    uri="ds_TrainingMap.dtd"
+  />
+  
+  
+</catalog>  

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+  <public publicId="urn:pubid:ditaschools.org:doctypes:dita:ds_QuestionTopic"
+    uri="ds_QuestionTopic.dtd"
+  />
+  <system systemId="urn:pubid:ditaschools.org:doctypes:dita:ds_QuestionTopic.dtd"
+    uri="ds_QuestionTopic.dtd"
+  />
+  
+  <public publicId="urn:pubid:ditaschools.org:modules:ds_QuestionTopic"
+    uri="ds_QuestionTopic.mod"
+  />
+  <system systemId="urn:pubid:ditaschools.org:modules:ds_QuestionTopic.mod"
+    uri="ds_QuestionTopic.mod"
+  />
+  <public publicId="urn:pubid:ditaschools.org:entities:ds_QuestionTopic"
+    uri="ds_QuestionTopic.ent"
+  />
+  <system systemId="urn:pubid:ditaschools.org:entities:ds_QuestionTopic.ent"
+    uri="ds_QuestionTopic.ent"
+  />
+</catalog>  

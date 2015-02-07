@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+  <public publicId="urn:pubid:ditaschools.org:doctypes:dita:ds_Slide"
+    uri="ds_Slide.dtd"
+  />
+  <system systemId="urn:pubid:ditaschools.org:doctypes:dita:ds_Slide.dtd"
+    uri="ds_Slide.dtd"
+  />
+  
+  <public publicId="urn:pubid:ditaschools.org:modules:ds_Slide"
+    uri="ds_Slide.mod"
+  />
+  <system systemId="urn:pubid:ditaschools.org:modules:ds_Slide.mod"
+    uri="ds_Slide.mod"
+  />
+  <public publicId="urn:pubid:ditaschools.org:entities:ds_Slide"
+    uri="ds_Slide.ent"
+  />
+  <system systemId="urn:pubid:ditaschools.org:entities:ds_Slide.ent"
+    uri="ds_Slide.ent"
+  />
+</catalog>  

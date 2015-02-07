@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">
+  
+  <public publicId="urn:pubid:ditaschools.org:entities:dtd:ds_TrainingMapDomain"
+    uri="ds_TrainingMapDomain.ent"
+  />
+  <system systemId="urn:pubid:ditaschools.org:entities:dtd:pubmap:ds_TrainingMapDomain.ent"
+    uri="ds_TrainingMapDomain.ent"
+  />
+  
+  <public publicId="urn:pubid:ditaschools.org:modules:dtd:ds_TrainingMapDomain"
+    uri="ds_TrainingMapDomain.mod"
+  />
+  <system systemId="urn:pubid:ditaschools.org:modules:dtd:pubmap:ds_TrainingMapDomain.mod"
+    uri="ds_TrainingMapDomain.mod"
+  />
+  
+</catalog>

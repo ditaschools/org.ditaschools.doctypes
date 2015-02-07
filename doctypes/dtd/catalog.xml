@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+   <nextCatalog catalog="ds_Exercise/catalog.xml"/>
+   <nextCatalog catalog="ds_QuestionTopic/catalog.xml"/>
+   <nextCatalog catalog="ds_Slide/catalog.xml"/>
+   <nextCatalog catalog="ds_TrainingMapDomain/catalog.xml"/>
+   <nextCatalog catalog="ds_TrainingMap/catalog.xml"/>
+</catalog>
